@@ -1,0 +1,13 @@
+05001;Medellin;Antioquia;6.2442;-75.5812
+05045;Apartado;Antioquia;7.883;-76.625
+05042;Santa Fe de Antioquia;Antioquia;6.556;-75.827
+05088;Bello;Antioquia;6.3373;-75.5579
+05154;Caucasia;Antioquia;7.985;-75.199
+05212;Copacabana;Antioquia;6.3464;-75.5088
+05266;Envigado;Antioquia;6.1759;-75.5917
+05360;Itagui;Antioquia;6.1846;-75.5991
+05364;Jardin;Antioquia;5.599;-75.819
+05440;Marinilla;Antioquia;6.174;-75.339
+05615;Rionegro;Antioquia;6.155;-75.374
+05631;Sabaneta;Antioquia;6.1515;-75.6166
+05837;Turbo;Antioquia;8.093;-76.728
